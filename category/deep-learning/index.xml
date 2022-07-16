@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Gabriel Oliveira</title>
+    <link>https://gabrielsantosrv.github.io/category/deep-learning/</link>
+      <atom:link href="https://gabrielsantosrv.github.io/category/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gabrielsantosrv.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://gabrielsantosrv.github.io/category/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Fundamentals of Neural Networks</title>
+      <link>https://gabrielsantosrv.github.io/post/fundamental_nn/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gabrielsantosrv.github.io/post/fundamental_nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention to Transformer, please!</title>
+      <link>https://gabrielsantosrv.github.io/post/transformers/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://gabrielsantosrv.github.io/post/transformers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
