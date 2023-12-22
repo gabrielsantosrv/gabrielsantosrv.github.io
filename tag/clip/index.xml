@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Gabriel Oliveira</title>
-    <link>https://gabrielsantosrv.github.io/publication-type/1/</link>
-      <atom:link href="https://gabrielsantosrv.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>CLIP | Gabriel Oliveira</title>
+    <link>https://gabrielsantosrv.github.io/tag/clip/</link>
+      <atom:link href="https://gabrielsantosrv.github.io/tag/clip/index.xml" rel="self" type="application/rss+xml" />
+    <description>CLIP</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gabrielsantosrv.github.io/media/icon_hu340fae363c67b2a54d250cf120a1f08a_34603_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://gabrielsantosrv.github.io/publication-type/1/</link>
+      <title>CLIP</title>
+      <link>https://gabrielsantosrv.github.io/tag/clip/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://gabrielsantosrv.github.io/publication/capivara/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://gabrielsantosrv.github.io/publication/capivara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CIDEr-R: Robust Consensus-based Image Description Evaluation</title>
-      <link>https://gabrielsantosrv.github.io/publication/cider_r/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://gabrielsantosrv.github.io/publication/cider_r/</guid>
       <description></description>
     </item>
     
